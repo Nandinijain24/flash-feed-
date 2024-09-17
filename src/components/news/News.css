@@ -1,0 +1,9 @@
+.mainDiv{
+     display:flex;
+     flex-wrap: wrap;
+}
+.container-fluid{
+     background-color:lightseagreen ;
+     color:white;
+     font-weight: bold;
+}
